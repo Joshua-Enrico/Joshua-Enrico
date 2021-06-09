@@ -1,4 +1,4 @@
-### Hi there, I'm Joshua - aka [yoyogold-a11][website] 👋
+### Hi there, I'm Joshua 👋
 
 
 - 🌱 I’m currently learning everything
