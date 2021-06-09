@@ -49,7 +49,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoyogold-a11&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+![Joshua github stats](https://github-readme-stats.vercel.app/api?username=yoyogold-a11&show_icons=true&theme=ayu-mirage)
+
 
 </details>
 
@@ -67,6 +69,4 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoyogold-a11&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
-![Joshua github stats](https://github-readme-stats.vercel.app/api?username=yoyogold-a11&show_icons=true&theme=ayu-mirage)
 
