@@ -27,7 +27,7 @@
 <img align="left" alt="Flask" width="26px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg" />
 <img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" />
 <img align="left" alt="AWS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" />
-<img align="left" alt="Docker" width="26px" src="https://e7.pngegg.com/pngimages/852/593/png-clipart-using-docker-developing-and-deploying-software-with-containers-application-software-software-deployment-computer-software-github-marine-mammal-logo.png" />
+<img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" />
 
 
 
