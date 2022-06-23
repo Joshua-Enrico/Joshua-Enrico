@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://joshuaclaudioenrico.medium.com/](https://joshuaclaudioenrico.medium.com/)
 
-- 💬 Ask me about **Apis, GraphQL, Node.js , Next.js**
+- 💬 Ask me about **Apis, GraphQL, Node.js , Next.js, AWS**
 
 - 📫 How to reach me **joshuaenrico123@gmail.com**
 
